@@ -1,4 +1,4 @@
-# Allstate - Claim Severity. Top 5-% solution
+# Allstate - Claims Severity. Top 5-% solution
 
 I've uploaded this solution, generally, for myself and also to be able to show it to my friends. Although, if you have any questions related to this repository, don't hesitate to contact me.
 
@@ -6,10 +6,9 @@ I've uploaded this solution, generally, for myself and also to be able to show i
 
 ## What you can find here
 
-* Feature extraction from public scripts
-* XGBoost
-* LightGBM
-* Keras
+* XGBoost gradient boosting
+* LightGBM gradient boosting
+* Keras neural networks
 * HyperOpt for parameter tuning
 * Stacking with linear model
 
